@@ -26,7 +26,9 @@ This repository therefore does **not** replace mathematical proof records, certi
 - `CORRECTIONS.md` — index of incorrect diagnoses, corrections, and the evidence that justified each correction.
 - `docs/` — detailed case studies linked from the process log and correction index.
 - `docs/REDDS_RESEARCH_GOVERNANCE_v1.0.md` — **Current v1.0** REDDS governance: Claude-first proposals, exceptional proposals by all AIs, approvals, audit independence and research PC rules.
+- `docs/MATH_RESEARCH_SCHEDULE_2026-11-23_v2.md` — **Current schedule (13 work items)**; completed OB-01 and SP-01 archived; unfinished manuscript tasks transferred to MS-01/MS-04.
 - `docs/MATH_RESEARCH_SCHEDULE_2026-11-22.md` — Judge-adopted mathematics research schedule (15 tracked work items, 2026-11-22; REDDS-governed, STATE.md remains proof-status authority).
+- `docs/2026-11-23-SP01-SPHERE-PROP42-AUDIT-RECEIPT.md` — Claude normal audit PASS and Judge closure of SP-01, with two manuscript clarifications assigned to MS-04.
 - `docs/MATH_RESEARCH_SCHEDULE_VERSIONING_POLICY_2026-11-22.md` — Judge ruling: remove completed tasks only from future schedule versions; never overwrite past snapshots; preserve evidence and proposer attribution.
 - `docs/2026-11-22-GE01-TR02-V63A_FOLLOWUP_RECEIPT.md` — Claude Code follow-up: Zenodo 10-file confirmation report, C-port/Reader stop scope, V63-A timing distinction, and STATE v1.64; record-only, no restart.
 - `docs/REDDS_RESEARCH_GOVERNANCE_2026-11-22.md` — Previous snapshot (`d9d76af`), retained for historical comparison.
