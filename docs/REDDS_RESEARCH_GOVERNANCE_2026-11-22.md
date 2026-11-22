@@ -117,6 +117,8 @@ Museを使用するかどうかは、**JudgeとClaudeが判断**する。Claude�
 | 特別Digの使用承認 | **Judge** |
 | 特別監査の使用提案 | **Claude** |
 | 特別監査の使用承認 | **Judge** |
+| Fable 5.2 での査読の使用提案 | **Claude** |
+| Fable 5.2 での査読の使用承認 | **Judge** |
 | Museの使用判断 | **JudgeとClaude／Judge最終承認** |
 | 成果の採否 | **Judge** |
 | 研究の開始・中止・再開 | **Judge** |
