@@ -67,7 +67,7 @@ ChatGPT Work（Astra・Codex）を使用するかどうかは、**Judge（古田
 
 Claude Codeを使用するかどうかも、**Judgeが決定**する。原則として**Claudeが特別監査の必要性を提案**する。その他の参加AIは特別に必要な場合に限り理由を付して提案できる。提案は承認ではなく、通常監査から自動的に特別監査へ移行しない。
 
-**Fable 5.2 による査読：** Fable 5.2 はAnthropicのAIモデル（モデルID：`claude-fable-5-2`）であり、六つの役割とは別の新しい担当者ではない。証明の査読には、Judgeの承認を受けたClaude Codeのセッションから利用する。通常はClaudeが必要性を判断してJudgeへ提案する。ほかの参加AIは特別に必要な場合に限り提案できる。使用時には実際のモデル名・セッション、対象範囲、査読結果を監査記録に残す。提供元・対応環境：[Anthropicのモデル資料](https://platform.claude.com/docs/en/models/fable-5-2/overview)、[Claude Codeのモデル設定](https://support.claude.com/en/articles/11940350-claude-code-model-configuration)。
+**Fable 5.2 による査読：** Fable 5.2 はAnthropicのAIモデル（モデルID：`claude-fable-5-2`）であり、六つの役割とは別の新しい担当者ではない。証明の査読には、Judgeの承認を受けて、Claude（chat または Claude Code）のセッションで利用する。通常はClaudeが必要性を判断してJudgeへ提案する。ほかの参加AIは特別に必要な場合に限り提案できる。使用時には実際のモデル名・セッション、対象範囲、査読結果を監査記録に残す。提供元・対応環境：[Anthropicのモデル資料](https://platform.claude.com/docs/en/models/fable-5-2/overview)、[Claude Codeのモデル設定](https://support.claude.com/en/articles/11940350-claude-code-model-configuration)。
 
 ### 外部監査
 
