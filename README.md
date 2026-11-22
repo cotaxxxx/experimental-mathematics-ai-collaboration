@@ -25,7 +25,8 @@ This repository therefore does **not** replace mathematical proof records, certi
 - `PROCESS_LOG.md` — chronological, append-only summaries of research-process events.
 - `CORRECTIONS.md` — index of incorrect diagnoses, corrections, and the evidence that justified each correction.
 - `docs/` — detailed case studies linked from the process log and correction index.
-- `docs/REDDS_RESEARCH_GOVERNANCE_2026-11-22.md` — REDDS research cycle, six roles, special resource approval, audit and discontinuation governance (2026-11-22).
+- `docs/REDDS_RESEARCH_GOVERNANCE_v1.0.md` — **Current v1.0** REDDS governance: Claude-first proposals, exceptional proposals by all AIs, approvals, audit independence and research PC rules.
+- `docs/REDDS_RESEARCH_GOVERNANCE_2026-11-22.md` — Previous snapshot (`d9d76af`), retained for historical comparison.
 
 ## Recording principle
 
