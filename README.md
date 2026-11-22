@@ -27,6 +27,7 @@ This repository therefore does **not** replace mathematical proof records, certi
 - `docs/` — detailed case studies linked from the process log and correction index.
 - `docs/REDDS_RESEARCH_GOVERNANCE_v1.0.md` — **Current v1.0** REDDS governance: Claude-first proposals, exceptional proposals by all AIs, approvals, audit independence and research PC rules.
 - `docs/MATH_RESEARCH_SCHEDULE_2026-11-22.md` — Judge-adopted mathematics research schedule (15 tracked work items, 2026-11-22; REDDS-governed, STATE.md remains proof-status authority).
+- `docs/MATH_RESEARCH_SCHEDULE_VERSIONING_POLICY_2026-11-22.md` — Judge ruling: remove completed tasks only from future schedule versions; never overwrite past snapshots; preserve evidence and proposer attribution.
 - `docs/REDDS_RESEARCH_GOVERNANCE_2026-11-22.md` — Previous snapshot (`d9d76af`), retained for historical comparison.
 
 ## Recording principle
