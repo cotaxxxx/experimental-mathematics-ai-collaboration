@@ -7,6 +7,10 @@
 **工程：SP-01（球の解析定理）**  
 **対象：** `cotaxxxx/bg-spheroid-family`、`codex/paper-i-v0.4-20261120`、`manuscripts/2026-11-20/Paper_I_v0_4/Paper_I_v0_4_Integrated_EN.pdf`（36ページ）の§4.2、命題4.2、式(4.3)〜(4.5)。
 
+**監査原本（無改変・Claude通常監査）：** [`CHAT_AUDIT_PAPER_I_PROP_4_2_20261123.md`](CHAT_AUDIT_PAPER_I_PROP_4_2_20261123.md)  
+**監査原本のSHA-256：** `8008d614b2b458e284fb9c8eff61699d131cea25918cc5702a0a67a2cf4d5ea4`（3,509バイト）  
+**原本の扱い：** 原本を無変更で保存。以下は受領要約であり、原本の代替ではない。
+
 ## 1．受領した監査結果
 
 **Claude監査：PASS／誤りなし。Judge裁定：SP-01を完了（2026-11-23）。**
