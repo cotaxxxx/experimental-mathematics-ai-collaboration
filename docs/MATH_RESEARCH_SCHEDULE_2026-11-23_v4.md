@@ -660,7 +660,7 @@ Judgeが研究中止を裁定した場合は、新規投入と自動再開を停
 | 第一論文の数学的状態 | OPEN、証拠等級・C1〜C6の条件は変更なし |
 | 既存管理表 | [v3（2026年11月23日）](MATH_RESEARCH_SCHEDULE_2026-11-23_v3.md)を上書きせず保存 |
 | 別記録 | [公開方針のJudge裁定記録](2026-11-23-JUDGE-PAPER-I-ZENODO-PUBLICATION-RULING.md) |
-| GitHub登録 | 初回登録コミットSHAを登録後に追記 |
+| GitHub登録 | 初回登録コミット `cedc95c64309b3ca83397e4d73f720b5029dcb5c` |
 
 ### 維持した事項
 
