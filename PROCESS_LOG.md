@@ -15,3 +15,13 @@ Detailed case: [C1b Phase 2 exception boundary](docs/2026-09-19-c1b-phase2-excep
 ### Status at close
 
 C-2a controls and preflight passed. Phase 2 had been restarted and was running. C1b was **not CERTIFIED**. The next decision point was production passage through coarse index 105.
+
+## 2026-11-22 — REDDS v1.0 supreme canon: session handoff and acceptance log
+
+- **Proposer:** Claude Code (special auditor). The proposing session identifier was not supplied.
+- **Judge:** 古田勝士. **Recorder:** Dig (ChatGPT).
+- **Decision:** Record the operational requirement to present the immutable REDDS v1.0 canon to each new participating AI session, verify its receipt and role, and distinguish receipt from permission to start work. Future proposal records must explicitly identify their **proposer**; revision decisions and history remain Judge-controlled.
+- **Reception:** Claude Code reported reading and accepting the fixed canon. This status applies only to the reporting session and does not prove reception by other sessions.
+- **Preservation:** Canonical file at `64115f7cb0f663fde47bbfd25e19c7ea42fccba1` remains unchanged. Triaxial research remains stopped; no restart or calculations were authorized by this record.
+
+Detailed record: [REDDS v1.0 — Claude Code reception and session handoff](docs/2026-11-22-redds-v1-supreme-canon-session-handoff.md)
