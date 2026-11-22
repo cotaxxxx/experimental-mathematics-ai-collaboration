@@ -26,7 +26,9 @@ This repository therefore does **not** replace mathematical proof records, certi
 - `CORRECTIONS.md` — index of incorrect diagnoses, corrections, and the evidence that justified each correction.
 - `docs/` — detailed case studies linked from the process log and correction index.
 - `docs/REDDS_RESEARCH_GOVERNANCE_v1.0.md` — **Current v1.0** REDDS governance: Claude-first proposals, exceptional proposals by all AIs, approvals, audit independence and research PC rules.
-- `docs/MATH_RESEARCH_SCHEDULE_2026-11-23_v4.md` — **Current schedule (13 work items)**; Paper I journal submission on hold; separate Zenodo publication is being prepared.
+- `docs/MATH_RESEARCH_SCHEDULE_2026-11-23_v5.md` — **Current schedule (13 work items)**; MS-01 C-series v1→v1.1 textual diff PASS, original audit file pending, STATE update awaiting Judge.
+- `docs/2026-11-23-C-AXIS-V1-V11-DIFF-AUDIT-RECEIPT.md` — Dig receipt of Claude's editorial diff audit PASS; not the unmodified auditor-original.
+- `docs/MATH_RESEARCH_SCHEDULE_2026-11-23_v4.md` — Previous schedule; Zenodo publication planning and Experimental Mathematics hold.
 - `docs/2026-11-23-JUDGE-PAPER-I-ZENODO-PUBLICATION-RULING.md` — Judge ruling: defer Experimental Mathematics submission, choose Zenodo, preserve evidence status and dates.
 - `docs/MATH_RESEARCH_SCHEDULE_2026-11-23_v3.md` — Archived 13-task edition; V63-A chronology verified, triaxial cancellation maintained.
 - `docs/MATH_RESEARCH_SCHEDULE_2026-11-23_v2.md` — Archived prior 13-task edition (SP-01 closed, manuscript tasks transferred).
