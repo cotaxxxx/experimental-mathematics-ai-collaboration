@@ -5,7 +5,8 @@
 - Zenodo の記録の description には、下の英語、その下に日本語を置く。
 - Dig は、zip の中の `zenodo_preparation/PAPER_I_V1_0_ZENODO_METADATA_FINAL.json` の `description` を、下の英語の文面に差し替える（段落の区切りは `\n\n`）。日本語は JSON に入れなくてよい。
 - 変えるのは、この JSON、zip の `SHA256SUMS`、束の `ARTIFACT_SHA256SUMS.txt` だけにする。**PDF（`fc3e8ea7…4cbf`）とソースは変えない。**
-- 文面は、どれも監査済みの本文（`da8706f`、監査 `7403e1d`）にある文から取った。新しい主張はない。
+- 改訂（08:02、Judge の指示）：著者の確認の文に「directed its revision」「改稿し」を加えた。著者は v0.5.6 を通読して、結論の置き方、題名、「なぜその範囲か」、GeoEnclosure の置き場所などの改稿を指示した（`50d1224`、`9a99a1c`）。PDF の §10 の文は変えない。
+- そのほかの文面は、どれも監査済みの本文（`da8706f`、監査 `7403e1d`）にある文から取った。新しい主張はない。
 
 ## 英語
 
@@ -17,7 +18,7 @@ The full-family classification is conditional on six explicit finite computation
 
 The global part required a dedicated method: a first box search left 21,254 of 31,340 boxes undecided, and the assertions became checkable only after a reduction to one-dimensional problems. The method, GeoEnclosure, is published separately (DOI: 10.5281/zenodo.24421364).
 
-The author has read the entire manuscript using the Japanese reading translation and approves the manuscript and the AI-use disclosure. The author has not personally verified the code, computational records or supplementary materials, and relies on the recorded audits for those materials. Code in the source bundle is licensed MIT; the paper and prose materials are CC BY 4.0.
+The author has read the entire manuscript using the Japanese reading translation, directed its revision, and approves the manuscript and the AI-use disclosure. The author has not personally verified the code, computational records or supplementary materials, and relies on the recorded audits for those materials. Code in the source bundle is licensed MIT; the paper and prose materials are CC BY 4.0.
 
 ## 日本語
 
@@ -29,4 +30,4 @@ The author has read the entire manuscript using the Japanese reading translation
 
 大域の部分には専用の方法が要った。最初の箱の探索では 31,340 個のうち 21,254 個が決まらず、一次元の問題への縮約で、はじめて主張が確かめられる形になった。この方法 GeoEnclosure は、別に公開している（DOI: 10.5281/zenodo.24421364）。
 
-著者は、日本語の通読用の翻訳で本文の全体を読み、本論文と AI の利用の開示を承認した。コード、計算の記録、補足の資料は著者自身では確かめておらず、記録された監査に依っている。ソース一式の中のコードは MIT、論文と文章の資料は CC BY 4.0 である。
+著者は、日本語の通読用の翻訳で本文の全体を読み改稿し、本論文と AI の利用の開示を承認した。コード、計算の記録、補足の資料は著者自身では確かめておらず、記録された監査に依っている。ソース一式の中のコードは MIT、論文と文章の資料は CC BY 4.0 である。
