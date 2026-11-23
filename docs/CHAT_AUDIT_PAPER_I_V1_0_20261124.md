@@ -41,3 +41,15 @@ Judge（古田勝士）本人が、§10 の著者の確認の文（日本語の�
 
 - §3 の表示の直し（PDF の Subject から「independent audit pending」を外す）。
 - Zenodo に上げる最終の束の hash の確認。
+
+## 6. 追記：1 ページ目への GeoEnclosure の二文（Judge 承認、2026-11-24 07:00）
+
+Judge の提案と承認により、最終の束に次の追加を入れる。場所は 1 ページ目「Main result and status」の、結論の段落と状態の一文の直後。
+
+> The global part of this classification required a dedicated method. A first box search left 21,254 of 31,340 boxes undecided; the assertions C1–C6 became checkable only after a reduction to one-dimensional problems. The method, GeoEnclosure, is published separately (doi:10.5281/zenodo.24421364).
+
+- 数字は第 8 節の規模の表にあるものと一致させる。新しい数字と主張は足さない。
+- 「GeoEnclosure で証明した」とは書かない。分類は C1〜C6 を条件とするままである。
+- 参考文献の GeoEnclosure の項を引く形にしてよい（DOI は文字として見えること）。
+- ほかの文、数学、表、図は変えない。ページの送りが変わる場合は、patch で確かめられるようにする。
+- この追加と、PDF の表示の直し（§5）を、同じ最終の束で登録する。chat が差分を監査する。
