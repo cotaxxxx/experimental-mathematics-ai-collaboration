@@ -26,7 +26,8 @@ This repository therefore does **not** replace mathematical proof records, certi
 - `CORRECTIONS.md` — index of incorrect diagnoses, corrections, and the evidence that justified each correction.
 - `docs/` — detailed case studies linked from the process log and correction index.
 - `docs/REDDS_RESEARCH_GOVERNANCE_v1.0.md` — **Current v1.0** REDDS governance: Claude-first proposals, exceptional proposals by all AIs, approvals, audit independence and research PC rules.
-- `docs/MATH_RESEARCH_SCHEDULE_2026-11-23_v9.md` — **Current schedule (13 work items)**; TR-02 E2 run and Claude Code independent check both Judge-authorized; E2 running at recorded checkpoint, Astra special-Dig design-session approval not verified.
+- `docs/MATH_RESEARCH_SCHEDULE_2026-11-23_v10.md` — **Current schedule (13 work items)**; Judge-authorized Astra special-Dig scope limited to equator kernel and test-plan revision; E4 execution and Reader work remain unapproved.
+- `docs/MATH_RESEARCH_SCHEDULE_2026-11-23_v9.md` — Archived previous schedule recording E2 run and Claude Code independent check approvals.
 - `docs/MATH_RESEARCH_SCHEDULE_2026-11-23_v8.md` — Archived prior schedule; v2.0/v2.1 design history before triaxial stop.
 - `docs/MATH_RESEARCH_SCHEDULE_2026-11-23_v7.md` — Archived edition preserving the Judge restart reason and research-PC parallel-use policy.
 - `docs/MATH_RESEARCH_SCHEDULE_2026-11-23_v6.md` — Archived previous schedule recording Judge triaxial research restart (TR-01 reopened, TR-02 on hold).
