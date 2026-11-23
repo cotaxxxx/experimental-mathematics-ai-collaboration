@@ -54,3 +54,25 @@
 3. §10 の最後の一文を差し替える。
 4. Zenodo の最終の束を監査する。
 5. 公開する。
+
+## 6. 追記（2026-11-24）：直しの確認と日本語の通読版
+
+**直し（`2009fda`、`paper/paper-i-v0.5.7-audit-fixes-d9342f9-20261124`）：PASS。**
+
+- `ARTIFACT_SHA256SUMS.txt` の 6 件は、すべて一致した。
+- patch はわずかな行だけである。
+- R1：要旨の文が「verified in the author's recorded audit (record V24; see Section 10)」になった。
+- §4-1：結論の段落を本文と同じ大きさの文字（normalsize）にし、余白を詰める設定を外した。
+- §4-2：メタデータに、GeoEnclosure の DOI（関係 references）と、GeoEnclosure を紹介する一文が入った。「pending」の文は、Judge の通読と承認のあとに差し替える、と公開の条件に書かれた。
+- §4-3：V24 の英語の要約に、「Judge」とは著者が最終の判断者として務める役だ、という一行が入った。λ_x を「the axial root passes through t = 1/2」と直した。
+- 数学の変更はない。
+
+**日本語の通読版（`fd416db`、42 ページ）：抜き取りで照合し、忠実だった。**
+
+照合した箇所は、題名、要旨、1 ページ目（結論、条件つきの分類、検証の状態、図 1）、§3.1 の二つの符号の表と本文、系（内部の局所最小）、扁平側の検証の範囲の段落。どれも英語の原本 v0.5.7 と中身が一致し、符号、範囲、条件の断り書きも正しく訳されている。
+
+全ページの照合はしていない。訳は通読のための参考で、正本は英語である（README のとおり）。
+
+**§10 の最後の一文への提案：** Judge は日本語の通読版で読むので、差し替える文にもそのことを正直に書くのがよい。例：
+
+> The author has read the full manuscript, with the aid of a Japanese reading translation, and approves it and this disclosure. The computer code, computational records and supplement were not re-checked by the author; for these the author relies on the documented audits described in this section.
