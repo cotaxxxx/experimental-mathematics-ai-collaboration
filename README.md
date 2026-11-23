@@ -26,7 +26,8 @@ This repository therefore does **not** replace mathematical proof records, certi
 - `CORRECTIONS.md` — index of incorrect diagnoses, corrections, and the evidence that justified each correction.
 - `docs/` — detailed case studies linked from the process log and correction index.
 - `docs/REDDS_RESEARCH_GOVERNANCE_v1.0.md` — **Current v1.0** REDDS governance: Claude-first proposals, exceptional proposals by all AIs, approvals, audit independence and research PC rules.
-- `docs/MATH_RESEARCH_SCHEDULE_2026-11-23_v7.md` — **Current schedule (13 work items)**; rationale for triaxial restart: research-PC calculations in parallel with Paper I manuscript/Zenodo preparation; specific jobs still gated.
+- `docs/MATH_RESEARCH_SCHEDULE_2026-11-23_v8.md` — **Current schedule (13 work items)**; triaxial v2.0/v2.1 pinned design confirmed to predate the November 22 stop; no new test authorization.
+- `docs/MATH_RESEARCH_SCHEDULE_2026-11-23_v7.md` — Archived edition preserving the Judge restart reason and research-PC parallel-use policy.
 - `docs/MATH_RESEARCH_SCHEDULE_2026-11-23_v6.md` — Archived previous schedule recording Judge triaxial research restart (TR-01 reopened, TR-02 on hold).
 - `docs/2026-11-23-JUDGE-TRIAXIAL-RESTART-RULING.md` — Judge restart ruling and link to the new triaxial research evidence-branch record.
 - `docs/MATH_RESEARCH_SCHEDULE_2026-11-23_v5.md` — Archived version (C-series editorial audit PASS); historical snapshot preserved.
