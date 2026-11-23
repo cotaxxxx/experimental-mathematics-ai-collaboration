@@ -82,3 +82,17 @@
 - zip の中の PDF は、外の PDF と同じ hash である。ソースの変更は `main.tex` の要旨の一語だけである。
 
 **Zenodo に上げるファイル：** 上の PDF と zip の二つ。メタデータは `PAPER_I_V1_0_ZENODO_METADATA_FINAL.json` のとおりに入力する。
+
+## 8. 追記：description の差し替えの確認（`5198308`、2026-11-24 08:08）
+
+**判定：PASS。公開に使うのは、この版である。**
+
+- 対象：`bg-spheroid-family` の commit `5198308c59dede097116fa150e361b89f4cbd75e`（親 `da8706f`）。作者とコミッターのメールは指定のアドレスである。
+- zip の中で変わったのは、`zenodo_preparation/PAPER_I_V1_0_ZENODO_METADATA_FINAL.json` と `SHA256SUMS` の 2 件だけである（186 件中）。
+- JSON の `description` は、`37faa99` の英語の文面と一字も違わない。ほかの項目は変わっていない。
+- zip の `SHA256SUMS` の 185 件は全件一致した。
+
+| Zenodo に上げるファイル | SHA-256 |
+|---|---|
+| `Paper_I_v1_0_Final_Publication_F123_EN.pdf`（§7 から不変） | `fc3e8ea737aa5ceb7e495087fd7949108d6b247542f305c5f3a1367455594cbf` |
+| `Paper_I_v1_0_Final_Publication_F123_Source_and_Verification.zip` | `16592c00264b36d6f561f5c5825e60a753b6d4c2f542cea2485357e403189282` |
