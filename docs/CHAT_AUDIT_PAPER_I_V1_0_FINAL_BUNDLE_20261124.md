@@ -62,3 +62,23 @@
 
 - **F3（用語をそろえる）：** 要旨の「left 21,254 of 31,340 leaves undecided」の「leaves」を「boxes」に改める。この数を「leaves」と呼んでいるのは要旨の一か所だけで、序論と §8 は「terminal boxes」、1 ページ目の新しい文は「boxes」である。
 - 変えるのはこの一語だけにする。F1、F2 と同じ回に入れ、PDF、zip、patch、SHA-256 の一覧を登録する。chat が差分を監査する。
+
+## 7. 追記：F1〜F3 の確認（`da8706f`、2026-11-24 07:50）
+
+**判定：PASS。この束は Zenodo に上げてよい。** 公開の操作は Judge が行う。
+
+- 対象：`bg-spheroid-family` の commit `da8706f4d06a49293f043442c86f74dcd71cf9f6`（親 `50a2ad1`）、`manuscripts/2026-11-24/Paper_I_v1_0_Final_F123/`。作者とコミッターのメールは指定のアドレスである。
+
+| ファイル | SHA-256 | 照合 |
+|---|---|---|
+| `Paper_I_v1_0_Final_Publication_F123_EN.pdf`（43 ページ） | `fc3e8ea737aa5ceb7e495087fd7949108d6b247542f305c5f3a1367455594cbf` | 一致 |
+| `Paper_I_v1_0_Final_Publication_F123_Source_and_Verification.zip` | `387cadf411e643f953a9f9a357a3c2b7c335fe2f808c7576ec7c8338421ea61e` | 一致 |
+| `SOURCE_DIFF_Paper_I_v1_0_50a2ad1_to_F123.patch` | `9f3100d4ef542aa76146d393d96807338d9221561b67d959fa00fcf2da118b31` | 一致 |
+
+- **F1：** `PRIMARY_RECORDS_SHA256SUMS.txt` の 7 件は全件一致した。zip の `SHA256SUMS` の 185 件も全件一致し、一覧に載っていないファイルはない。
+- **F2：** `PAPER_I_V1_0_ZENODO_METADATA_FINAL.json` ができ、古い下書きは束から外れた。description から監査待ちの一文が外れた。題名、著者、所属、ORCID、ライセンス、キーワード、References は下書きと同じである。束の中に「DRAFT_NOT_SUBMITTED」「remains subject to an independent」は残っていない。
+- **F3：** 要旨の「leaves」が「boxes」になった。本文の違いは、この一語と、目次のページ番号だけである。
+- **目次のページ番号：** v1.0（`b8bc379`）と `50a2ad1` の PDF では、目次の 37 項目のうち 15 項目（4.2 節以降）のページ番号が、実際より 1 小さかった。組版を回す回数が足りなかったためとみられる。今回の PDF では 37 項目すべてが実際のページと一致する。v1.0 の監査（`b22c32d`）と §2 では、この点を確かめていなかった。
+- zip の中の PDF は、外の PDF と同じ hash である。ソースの変更は `main.tex` の要旨の一語だけである。
+
+**Zenodo に上げるファイル：** 上の PDF と zip の二つ。メタデータは `PAPER_I_V1_0_ZENODO_METADATA_FINAL.json` のとおりに入力する。
