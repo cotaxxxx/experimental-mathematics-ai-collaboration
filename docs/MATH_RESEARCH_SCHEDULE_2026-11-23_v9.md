@@ -780,7 +780,7 @@ Judgeが研究中止を裁定した場合は、新規投入と自動再開を停
 | 三軸のDig記録 | [`DIG_RECORD_TR02_APPROVALS_AND_PROVENANCE_20261123.md`（`e8c26d2`）](https://github.com/cotaxxxx/bg-triaxial-family/blob/e8c26d2a70deda25907c2c14c566155ec1baca47/evidence/dig/2026-11-23/DIG_RECORD_TR02_APPROVALS_AND_PROVENANCE_20261123.md) |
 | コミット帰属 | 過去の`b18e78f`・`06c1ea3`はDig登録の履歴として保持し、強制push等で書き換えない |
 | 旧版 | [v8](MATH_RESEARCH_SCHEDULE_2026-11-23_v8.md)を上書きせず保存 |
-| GitHub登録 | 初回登録コミットSHAは登録後追記 |
+| GitHub登録 | 初回登録コミット `793a86f3d3a2feae56b3a8945b9aa528011fcf67` |
 
 ### 維持した事項
 
