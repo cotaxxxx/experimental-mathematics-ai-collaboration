@@ -26,7 +26,8 @@ This repository therefore does **not** replace mathematical proof records, certi
 - `CORRECTIONS.md` — index of incorrect diagnoses, corrections, and the evidence that justified each correction.
 - `docs/` — detailed case studies linked from the process log and correction index.
 - `docs/REDDS_RESEARCH_GOVERNANCE_v1.0.md` — **Current v1.0** REDDS governance: Claude-first proposals, exceptional proposals by all AIs, approvals, audit independence and research PC rules.
-- `docs/MATH_RESEARCH_SCHEDULE_2026-11-24_v11.md` — **Current schedule (12 work items)**; Paper I v1.0 published on Zenodo 2026-11-24 (version DOI 10.5281/zenodo.24495446, concept DOI 10.5281/zenodo.24495445); SUB-01 completed and excluded from active items.
+- `docs/MATH_RESEARCH_SCHEDULE_2026-11-24_v12.md` — **Current schedule (12 work items)**; Paper I v1.0 Zenodo publication and reciprocal References / Is referenced by relationship with GeoEnclosure.
+- `docs/MATH_RESEARCH_SCHEDULE_2026-11-24_v11.md` — Archived previous schedule documenting Paper I v1.0 publication and SUB-01 completion.
 - `docs/MATH_RESEARCH_SCHEDULE_2026-11-23_v10.md` — Archived previous schedule (13 work items), preserving the pre-publication SUB-01 state and Astra limited-Dig approval scope.
 - `docs/MATH_RESEARCH_SCHEDULE_2026-11-23_v9.md` — Archived previous schedule recording E2 run and Claude Code independent check approvals.
 - `docs/MATH_RESEARCH_SCHEDULE_2026-11-23_v8.md` — Archived prior schedule; v2.0/v2.1 design history before triaxial stop.
