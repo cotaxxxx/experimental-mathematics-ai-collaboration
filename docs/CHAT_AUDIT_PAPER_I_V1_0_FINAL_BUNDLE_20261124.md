@@ -96,3 +96,31 @@
 |---|---|
 | `Paper_I_v1_0_Final_Publication_F123_EN.pdf`（§7 から不変） | `fc3e8ea737aa5ceb7e495087fd7949108d6b247542f305c5f3a1367455594cbf` |
 | `Paper_I_v1_0_Final_Publication_F123_Source_and_Verification.zip` | `16592c00264b36d6f561f5c5825e60a753b6d4c2f542cea2485357e403189282` |
+
+## 9. 追記：Zenodo での公開の確認（2026-11-24 19:21 JST）
+
+Judge（古田勝士）が Zenodo で公開した。chat は、公開前のプレビューと公開後の記録のページを、Judge から届いた画面の写真で確かめた。chat 自身は Zenodo のページを取得していない。
+
+| 項目 | 値 |
+|---|---|
+| 記録 | `https://zenodo.org/records/24495446` |
+| DOI（この版） | `10.5281/zenodo.24495446` |
+| DOI（全版共通） | `10.5281/zenodo.24495445` |
+| 公開日、版、種類 | 2026-11-24、v1.0、Preprint、Open |
+| 題名 | Saddle pairs, a saddle circle, and nothing else: stationary points of an angle energy across all spheroid shapes |
+| 著者 | Furuta, Katsushi（ORCID 0009-0005-3129-8043、所属 DAYBREAK (independent research)） |
+| ライセンス | Creative Commons Attribution 4.0 International |
+| キーワード | spheroid、stationary points、cone-volume measure、equivariant bifurcation、validated numerics、GeoEnclosure |
+| Related works | References、Working paper、`10.5281/zenodo.24421364`（GeoEnclosure） |
+| description | `37faa99` の英語の文面、その下に日本語の文面 |
+
+**ファイルの同一性：** Zenodo が表示する MD5 は、監査済みのファイル（`5198308`、§8）の MD5 と一致した。
+
+| ファイル | 大きさ | MD5 | SHA-256（監査済み） |
+|---|---|---|---|
+| `Paper_I_v1_0_Final_Publication_F123_EN.pdf` | 821.1 kB | `a9615587544c674be427599cc049f17f` | `fc3e8ea737aa5ceb7e495087fd7949108d6b247542f305c5f3a1367455594cbf` |
+| `Paper_I_v1_0_Final_Publication_F123_Source_and_Verification.zip` | 2.4 MB | `b443ebcebe95bc1d9b08fcfe118f4dff` | `16592c00264b36d6f561f5c5825e60a753b6d4c2f542cea2485357e403189282` |
+
+公開の操作の途中で直した点：DOI の欄を「No, I need one」にしたこと、Related works の種類を Working paper にしたこと、PDF の名前から「-1」を取ったこと、プレビューのファイルを PDF にしたこと。
+
+引用の形：Furuta, K. (2026). Saddle pairs, a saddle circle, and nothing else: stationary points of an angle energy across all spheroid shapes (Version v1.0). Zenodo. https://doi.org/10.5281/zenodo.24495446
