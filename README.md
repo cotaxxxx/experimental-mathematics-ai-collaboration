@@ -26,7 +26,8 @@ This repository therefore does **not** replace mathematical proof records, certi
 - `CORRECTIONS.md` — index of incorrect diagnoses, corrections, and the evidence that justified each correction.
 - `docs/` — detailed case studies linked from the process log and correction index.
 - `docs/REDDS_RESEARCH_GOVERNANCE_v1.0.md` — **Current v1.0** REDDS governance: Claude-first proposals, exceptional proposals by all AIs, approvals, audit independence and research PC rules.
-- `docs/MATH_RESEARCH_SCHEDULE_2026-11-26_v15.md` — **Current schedule (12 work items)**; Judge ruling `900b3f7`: Paper II December focus on candidate B (four curve locations); E4 all eight BUDGET, no same-method rerun or extended budget; limited s,t design only, DIAGNOSTIC_ONLY.
+- `docs/MATH_RESEARCH_SCHEDULE_2026-11-26_v16.md` — **Current schedule (12 work items)**; shape s,t design audit `da750f7` PASS as design only, implementation and computation unapproved; research PC priority candidate B; DIAGNOSTIC_ONLY.
+- `docs/MATH_RESEARCH_SCHEDULE_2026-11-26_v15.md` — Archived schedule recording Judge ruling `900b3f7` after E4.
 - `docs/MATH_RESEARCH_SCHEDULE_2026-11-25_v14.md` — Archived schedule recording the Judge-approved Paper II shape-map convention.
 - `docs/MATH_RESEARCH_SCHEDULE_2026-11-25_v13.md` — Archived previous schedule recording journal submission HOLD and December Zenodo publication target candidate for Paper II.
 - `docs/MATH_RESEARCH_SCHEDULE_2026-11-24_v12.md` — Archived previous schedule recording reciprocal Paper I / GeoEnclosure Zenodo references.
