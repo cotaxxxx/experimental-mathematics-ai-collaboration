@@ -26,7 +26,8 @@ This repository therefore does **not** replace mathematical proof records, certi
 - `CORRECTIONS.md` — index of incorrect diagnoses, corrections, and the evidence that justified each correction.
 - `docs/` — detailed case studies linked from the process log and correction index.
 - `docs/REDDS_RESEARCH_GOVERNANCE_v1.0.md` — **Current v1.0** REDDS governance: Claude-first proposals, exceptional proposals by all AIs, approvals, audit independence and research PC rules.
-- `docs/MATH_RESEARCH_SCHEDULE_2026-11-25_v13.md` — **Current schedule (12 work items)**; Judge ruling 2026-11-25: journal submission HOLD indefinitely, January 31 submission target stopped; December Zenodo publication candidate for Paper II, scope pending revised-kernel E1–E3 results; verification standards unchanged.
+- `docs/MATH_RESEARCH_SCHEDULE_2026-11-25_v14.md` — **Current schedule (12 work items)**; Judge-approved Paper II shape-map convention (middle semiaxis x=1, y≤1≤z; V56 axis relabeling required); diagnostic status and K2 unchanged.
+- `docs/MATH_RESEARCH_SCHEDULE_2026-11-25_v13.md` — Archived previous schedule recording journal submission HOLD and December Zenodo publication target candidate for Paper II.
 - `docs/MATH_RESEARCH_SCHEDULE_2026-11-24_v12.md` — Archived previous schedule recording reciprocal Paper I / GeoEnclosure Zenodo references.
 - `docs/MATH_RESEARCH_SCHEDULE_2026-11-24_v11.md` — Archived previous schedule documenting Paper I v1.0 publication and SUB-01 completion.
 - `docs/MATH_RESEARCH_SCHEDULE_2026-11-23_v10.md` — Archived previous schedule (13 work items), preserving the pre-publication SUB-01 state and Astra limited-Dig approval scope.
