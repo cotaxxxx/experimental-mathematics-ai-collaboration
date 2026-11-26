@@ -46,3 +46,6 @@ Claude Code は調査報告だけを読んだ（候補 B の原本は未読、�
   - A：四本の零曲線とその交差／*Four Zero Curves and Their Intersections*（配置のみで言える）
   - B：停留点が出入りする四本の境目／*Four Threshold Curves of Stationary Points*（対応条件が全区間で成立した場合のみ）
 - 先行研究との位置づけ（chat 整理）：道具は既存／近い問題（法線の本数と焦曲面、Domokos–Holmes–Lángi、放射中心）は量が異なる／同一の問題の先行例は未確認。本文に「法線の本数の古典との違い」の節を置く。
+
+## 公開方針（Judge 発言 2026-11-27 05:16 JST）
+「書籍には出さない　Zenodo投稿のみ」。論文 II は Zenodo 投稿のみとする（学術誌・書籍への投稿は行わない）。
